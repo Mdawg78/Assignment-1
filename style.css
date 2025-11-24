@@ -1,0 +1,57 @@
+h1{
+text-align: center;
+font-family: sans-serif;
+font-size: 40px;
+}
+
+h2,h3,h3,h4,h5{
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+
+body{
+	background-image: url(https://static.vecteezy.com/system/resources/previews/068/217/335/non_2x/simple-clean-subtle-and-artistic-white-horizontal-background-design-with-intricate-traditional-art-patterns-and-ethnic-elements-vector.jpg);
+}
+
+p{
+	font-family: sans-serif;
+	font-size: 18px;
+	text-align: left;
+}
+
+nav {
+  background: purple;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* gap for flex children */
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+img{
+  width: 525px;
+  height: auto;
+}
+
+footer{
+  background-color: purple;
+}
+
+div{
+<div style="background-color:#FFF4A3;">
+<h2>Introduction</h2>
+<p>Most countries celebrate New Years on the 1st of January.
+Although that is what the mass majority follow, there are a few cultures that have special celebrations held months later.</p>
+</div>
+}
